@@ -1,4 +1,3 @@
-*Mitalee's Portfolio Website*
 
 Welcome to my portfolio website repository! This project showcases my professional skills, projects, and services in web development, UI/UX design, and app development.
 
@@ -60,14 +59,6 @@ Make sure you have Git installed on your local machine.
 
 Feel free to explore the different sections of the website to learn more about my work and services. You can also use this template to create your own portfolio website by modifying the content and styles.
 
-## Screenshots
-
-![Home Page](screenshots/home-page.png)
-![About Page](screenshots/about-page.png)
-![Services Page](screenshots/services-page.png)
-![Portfolio Page](screenshots/portfolio-page.png)
-![Contact Page](screenshots/contact-page.png)
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and create a pull request. You can also open an issue with your ideas.
@@ -84,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Mitalee - [your-email@example.com](mailto:your-email@example.com)
+Mitalee - [your-email@example.com](mailto:mitaleeverma763@gmail.com)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mitalee-verma-9b9342205/)
 
