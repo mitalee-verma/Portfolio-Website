@@ -1,4 +1,4 @@
-Mitalee's Portfolio Website
+*Mitalee's Portfolio Website*
 
 Welcome to my portfolio website repository! This project showcases my professional skills, projects, and services in web development, UI/UX design, and app development.
 
